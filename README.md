@@ -9,8 +9,8 @@ Using this model, BigMart will try to understand the properties of products and 
 import Kaggle dataset from Kaggle platform
 
 ```
-$ import kaggle
-$ !kaggle datasets download -d brijbhushannanda1979/bigmart-sales-data
+ import kaggle
+ !kaggle datasets download -d brijbhushannanda1979/bigmart-sales-data
 ```
 
 ## Stage 1 : Load and Save Data 
