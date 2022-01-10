@@ -3,7 +3,7 @@ base:
   random_state: 10
   target_col: Item_Outlet_Sales
 
-data_source:
+data_source: 
   data_source_train: data/data_given/Train.csv
   data_source_test: data/data_given/Test.csv
 

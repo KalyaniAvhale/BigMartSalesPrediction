@@ -12,7 +12,7 @@ import Kaggle dataset from Kaggle platform
  import kaggle
  !kaggle datasets download -d brijbhushannanda1979/bigmart-sales-data
 ```
-After this setup your vscode with virtual env and create directory structure with script [template.py](BigMartSalesPrediction/template.py)
+After this setup your vscode with virtual env and create directory structure with script [template.py](template.py)
 
 Then setup git and dvc with below commands :
 
